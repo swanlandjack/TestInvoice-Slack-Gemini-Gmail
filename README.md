@@ -503,9 +503,8 @@ This project is for educational use in the HKUST MBA AI & Technology course.
 ## 👨‍🏫 Course Information
 
 **Instructor**: Jack Lau  
-**Institution**: HKUST Business School  
 **Course**: MBA - AI and Web Technologies  
-**Term**: 2025
+
 
 ---
 
